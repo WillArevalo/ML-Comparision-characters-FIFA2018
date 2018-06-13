@@ -4,7 +4,7 @@
 
 In this notebook we create a recommendation system for choices the most similar character in video game on based in the 4 best positions of the character(In the end)
 
-This notebook were work in [collaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
+This notebook were worked in [collaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
 
 - Connection with JSON to Kaggle
 - Connection to Drive for download dataset
